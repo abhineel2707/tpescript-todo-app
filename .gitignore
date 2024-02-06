@@ -1,0 +1,18 @@
+# Dependency directories
+node_modules/
+
+# Compiled JavaScript files
+*.js
+*.js.map
+
+# TypeScript declaration files
+*.d.ts
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Build directory
+dist/
+
+# IDE specific files
+.vscode/
